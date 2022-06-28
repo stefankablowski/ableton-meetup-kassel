@@ -1,11 +1,8 @@
 ---
-title: "Home"
+title: "Ableton Meetup Kassel"
 date: 2022-06-27T23:52:22+02:00
 draft: false
 ---
-
-# Ableton Live Meetup Kassel
-
 Wir lernen gemeinsam mit der Digital Audio Workstastion (DAW) Ableton Live tolle EDM Tracks zu produzieren.
 
 ## Was ist EDM?
