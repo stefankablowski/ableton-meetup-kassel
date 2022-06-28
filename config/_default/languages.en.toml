@@ -5,15 +5,15 @@ isoCode = "en"
 weight = 1
 rtl = false
 
-title = "Congo"
-# logo = "img/logo.jpg"
-# description = "My awesome website"
+title = "Home"
+logo = "logo.png"
+description = "Learn EDM Production"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "2 January 2006"
 
 [author]
-  # name = "Your name here"
+  name = "Stefan"
   # image = "img/author.jpg"
   # headline = "I'm only human"
   # bio = "A little bit about you"
