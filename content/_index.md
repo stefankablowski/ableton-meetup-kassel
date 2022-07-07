@@ -19,5 +19,7 @@ Komm vorbei, wir zeigen dir die **Grundlagen** und dann kannst du loslegen und s
 ## Fortgeschrittener? - Zeig uns deine Skills
 Wenn du dich schon gut auskennst, komm gerne vorbei und zeig uns deinen Lieblings-Workflow. Du weißt wie man die besten Synths und Filter einstellt für den besten Sound? Wir freuen uns über dein Wissen.
 
+[Erstes_Treffen]({{< ref "/Erstes_Treffen.md" >}})
+
 ![Ableton](ableton.png)
 

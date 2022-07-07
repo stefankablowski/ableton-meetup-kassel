@@ -15,7 +15,7 @@ Wir treffen uns am *Donnerstag, 14.Juli um 19 Uhr im Freien Radio Kassel (Opernp
 - Laptop (mit Ableton installiert)
 - Bock
 
-![ableton_meetup](./../ableton_meetup.png)
+![ableton_meetup](/../ableton_meetup.png)
 
 Du kennst dich schon von Komponieren bis Filtern aus? Zeig uns gerne an der Leinwand was du drauf hast!
 
