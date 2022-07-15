@@ -15,8 +15,13 @@ Wir treffen uns am *Donnerstag, 14.Juli um 19 Uhr im Freien Radio Kassel (Opernp
 - Laptop (mit Ableton installiert)
 - Bock
 
-![ableton_meetup](/../ableton_meetup.png)
-
 Du kennst dich schon von Komponieren bis Filtern aus? Zeig uns gerne an der Leinwand was du drauf hast!
 
 {{<audio src="/posts/Live2.mp3" caption="Mein erster Track" >}}
+
+## Einfacher Loop mit 808, Pacific Pad und Piano
+
+{{<audio src="/posts/treffen_1/treffen_1_live.mp3" caption="Ergebnis des ersten Treffen" >}}
+
+![piano](./../grand_piano_arp_random_scale.png)
+![arragement](./../core_pacific_piano.png)
