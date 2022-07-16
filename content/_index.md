@@ -5,14 +5,18 @@ draft: false
 ---
 Wir lernen gemeinsam mit der Digital Audio Workstastion (DAW) Ableton Live tolle EDM Tracks zu produzieren.
 
+---
+
+**Termine**
 1. [So klappt dein Einstieg - Drum Loop mit Pad und Piano]({{< ref "posts/treffen_1/Erstes_Treffen.md" >}})
 2. [Wie baue ich einen coolen Synth?]({{< ref "posts/treffen_2/index.md" >}})
 
+---
 
 ## Was ist EDM? 🎧
 EDM steht für *electronic dance music* und ist der Oberbegriff für viele Subgenres der elektronischen Musik, wie zum Beispiel **House, Drum and Base, Trance, Dubstep, oder Techno**.
 
-![Live](live.png)
+![Live](live.png#center)
 
 ## Was ist Ableton Live? 🎚️
 Ableton Live ist eine **Musik-Software**, mit der du elektronische Musik produzieren kannst. Du kannst dir  [hier](https://www.ableton.com/de/trial/) die kostenlose Testversion herunterladen.

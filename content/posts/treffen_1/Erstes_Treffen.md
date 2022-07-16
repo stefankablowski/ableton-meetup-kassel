@@ -25,3 +25,8 @@ Du kennst dich schon von Komponieren bis Filtern aus? Zeig uns gerne an der Lein
 
 ![piano](./../grand_piano_arp_random_scale.png)
 ![arragement](./../core_pacific_piano.png)
+
+## Inspiration
+
+![Daft Punk - Giorgio by Moroder](https://www.youtube.com/watch?v=zhl-Cs1-sG4)
+![Jimi Hendrix - Little Wing](https://www.youtube.com/watch?v=BkEPBiMbgxs)
